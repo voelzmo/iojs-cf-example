@@ -1,0 +1,12 @@
+{
+  "name": "iojs-cf-example",
+  "description": "Just an example for using iojs with the nodejs buildpack on CF",
+  "author": "Marco Voelz <marco.voelz@sap.com>",
+  "dependencies": {
+    "cfenv" : "1.0.x"
+  },
+  "engines": {
+    "iojs" : "*",
+    "npm": "2.x"
+  }
+}
