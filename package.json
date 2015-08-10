@@ -3,10 +3,11 @@
   "description": "Just an example for using iojs with the nodejs buildpack on CF",
   "author": "Marco Voelz <marco.voelz@sap.com>",
   "dependencies": {
-    "cfenv" : "1.0.x"
+    "cfenv": "1.0.x",
+    "pg": "^4.4.1"
   },
   "engines": {
-    "iojs" : "*",
+    "iojs": "*",
     "npm": "2.x"
   }
 }
