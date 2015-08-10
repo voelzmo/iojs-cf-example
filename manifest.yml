@@ -1,7 +1,7 @@
 ---
   applications:
     - name: iojs-cf-example
-      host: d058546-iojs-cf-example
+      host: <d-12345>-iojs-cf-example
       memory: 128M
       command: node server
       buildpack: https://github.com/heroku/heroku-buildpack-nodejs.git
