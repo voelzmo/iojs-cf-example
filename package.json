@@ -4,6 +4,8 @@
   "author": "Marco Voelz <marco.voelz@sap.com>",
   "dependencies": {
     "cfenv": "1.0.x",
+    "graphite": "0.0.6",
+    "influx": "^4.0.1",
     "pg": "^4.4.1"
   },
   "engines": {
